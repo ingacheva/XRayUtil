@@ -1,0 +1,1 @@
+https://anaconda.org/conda-forge/xraylib/files#egg=xraylib-3.3.0

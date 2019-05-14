@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: XRayUtil
+Version: 1.0
+Summary: UNKNOWN
+Home-page: https://github.com/ingacheva/XRayUtil
+Author: Anastasia Ingacheva
+Author-email: ingacheva@gmail.com
+License: MIT
+Description: # XRayUtil
+        Python package "XRayUtil" for modeling the optical path in devices which measure transmission coefficient of the objects for X-Ray emission. These devices include transmission tomographs, X-Ray microscopes and other X-Ray related devices. Package is used to model spectral distribution of the emission for X-Ray tubes with different anodes (chrome, cuprum, molibden, silver, wolfram and others if user provides properties of the emission). With this package one can simulate presence of the filters of different thickness and material according to its chemical description. This functionality is implemented using XRAYLIB package. Using this one can estimate attenuation of the probing beam with objects of defined size and material using specific filters. The model includes single-channel detectors of the X-Ray emission with scintillators which are described with equations for spectral scintillator efficiency and spectral detector sensitivity. The used mathematical model evaluates emission attenuation only due to absorption and does not count reflection, diffraction and fluorescence.
+        
+Platform: UNKNOWN
